@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "crmPack"]
+	path = crmPack
+	url = https://github.com/roche/crmpack
+	shallow = true
+	registered = true
+[submodule "rtables"]
+	path = rtables
+	url = https://github.com/roche/rtables
+	shallow = true
+	registered = true
