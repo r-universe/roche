@@ -2,9 +2,5 @@
   {
     "package": "crmPack",
     "oncran": true
-  },
-  {
-    "package": "rtables",
-    "oncran": true
   }
 ]

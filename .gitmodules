@@ -8,8 +8,3 @@
 	url = https://github.com/roche/crmpack
 	shallow = true
 	registered = true
-[submodule "rtables"]
-	path = rtables
-	url = https://github.com/roche/rtables
-	shallow = true
-	registered = true
